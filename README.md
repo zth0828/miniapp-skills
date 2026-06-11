@@ -22,10 +22,10 @@
 # macOS / Linux
 mkdir -p ~/.claude/skills
 cd ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/miniapp-skills.git
+git clone https://github.com/zth0828/miniapp-skills.git
 
 # 或在现有项目内直接使用
-claude skill add https://github.com/YOUR_USERNAME/miniapp-skills.git
+claude skill add https://github.com/zth0828/miniapp-skills.git
 ```
 
 安装后，在 Claude Code 对话中输入 `/miniapp-dev` 等命令即可触发对应技能。
@@ -80,10 +80,10 @@ Clone into your Claude Code Skills directory:
 # macOS / Linux
 mkdir -p ~/.claude/skills
 cd ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/miniapp-skills.git
+git clone https://github.com/zth0828/miniapp-skills.git
 
 # Or use directly in your project
-claude skill add https://github.com/YOUR_USERNAME/miniapp-skills.git
+claude skill add https://github.com/zth0828/miniapp-skills.git
 ```
 
 After installation, type `/miniapp-dev` (or any skill command) in a Claude Code conversation to trigger it.
